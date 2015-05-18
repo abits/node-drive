@@ -1,0 +1,1454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"preview",
+				"previewMode"
+			],
+			[
+				"previ",
+				"previewMode"
+			],
+			[
+				"doc",
+				"docRoot"
+			],
+			[
+				"to",
+				"toString〔function〕"
+			],
+			[
+				"liv",
+				"livePort"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"p",
+				"port"
+			],
+			[
+				"htt",
+				"http://127"
+			],
+			[
+				"mod",
+				"modernizr"
+			],
+			[
+				"preg_match",
+				"preg_match"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"preg_",
+				"preg_replace"
+			],
+			[
+				"prin",
+				"print_block"
+			],
+			[
+				"read",
+				"readline"
+			],
+			[
+				"us",
+				"usr"
+			],
+			[
+				"chris",
+				"chris@codeways"
+			],
+			[
+				"state",
+				"state=present"
+			],
+			[
+				"opens",
+				"opensmtpd"
+			],
+			[
+				"confi",
+				"configuration"
+			],
+			[
+				"loc",
+				"locality"
+			],
+			[
+				"code",
+				"codeways"
+			],
+			[
+				"cert",
+				"certificate"
+			],
+			[
+				"zsh",
+				"zshrc"
+			],
+			[
+				"category",
+				"category_document"
+			],
+			[
+				"add",
+				"addSql"
+			],
+			[
+				"lft",
+				"lftCounter"
+			],
+			[
+				"rgt",
+				"rgtCounter"
+			],
+			[
+				"inc",
+				"incoming"
+			],
+			[
+				"stm",
+				"stmt3"
+			],
+			[
+				"a_media",
+				"a_media_item"
+			],
+			[
+				"return",
+				"returnValue"
+			],
+			[
+				"retun",
+				"returnValue"
+			],
+			[
+				"out",
+				"outputFile"
+			],
+			[
+				"retrun",
+				"returnValue"
+			],
+			[
+				"ou",
+				"outputFile"
+			],
+			[
+				"convert",
+				"convertCmd"
+			],
+			[
+				"write",
+				"writeln〔function〕"
+			],
+			[
+				"input",
+				"inputFile"
+			],
+			[
+				"IM",
+				"IM_CONVERT_ARGS"
+			],
+			[
+				"previe",
+				"previewManager"
+			],
+			[
+				"get",
+				"getOption〔function〕"
+			],
+			[
+				"categ",
+				"categoryCounter"
+			],
+			[
+				"ca",
+				"categoryData"
+			],
+			[
+				"document",
+				"document_id"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"documen",
+				"document_id"
+			],
+			[
+				"docu",
+				"document_id"
+			],
+			[
+				"catgeo",
+				"category_id"
+			],
+			[
+				"linked",
+				"linkedCategory"
+			],
+			[
+				"categro",
+				"categoryData"
+			],
+			[
+				"linke",
+				"linkedCategories"
+			],
+			[
+				"H",
+				"HYDRATE_ARRAY"
+			],
+			[
+				"new",
+				"newCategory"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"cat",
+				"categoryIds"
+			],
+			[
+				"file",
+				"fileCounter"
+			],
+			[
+				"dow",
+				"downloadDir"
+			],
+			[
+				"we",
+				"writeln〔function〕"
+			],
+			[
+				"w",
+				"writeln〔function〕"
+			],
+			[
+				"form",
+				"formatter"
+			],
+			[
+				"a",
+				"assets"
+			],
+			[
+				"pa",
+				"package_cmd"
+			],
+			[
+				"ex",
+				"exclude_string"
+			],
+			[
+				"clean",
+				"clean_cmd"
+			],
+			[
+				"cle",
+				"clean_cmd"
+			],
+			[
+				"git",
+				"gitlab@git"
+			],
+			[
+				"worek",
+				"working_dir〔variable〕"
+			],
+			[
+				"dev",
+				"dev_credentials"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"chmo",
+				"chmod_cmd"
+			],
+			[
+				"lim",
+				"lim-internet"
+			],
+			[
+				"ass",
+				"assignedChoices"
+			],
+			[
+				"coner",
+				"concernChoices"
+			],
+			[
+				"branch",
+				"branchChoices"
+			],
+			[
+				"bran",
+				"branchChoices"
+			],
+			[
+				"Datens",
+				"Datensätze"
+			],
+			[
+				"Bürop",
+				"Büroprofile"
+			],
+			[
+				"Frontend",
+				"Frontend-Server"
+			],
+			[
+				"Token",
+				"Token-basiert"
+			],
+			[
+				"au",
+				"authentifizierte"
+			],
+			[
+				"ar",
+				"Architekturaspekte"
+			],
+			[
+				"Pun",
+				"Punkte"
+			],
+			[
+				"Bü",
+				"Büros"
+			],
+			[
+				"Archit",
+				"Architekten"
+			],
+			[
+				"Ar",
+				"Architekten"
+			],
+			[
+				"Architekten",
+				"Architektenkammer"
+			],
+			[
+				"sy",
+				"systems"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Unix",
+				"name": "'use strict';"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1477,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/error.hbs",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 191.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"webin",
+				"Web Inspector"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git df",
+				"Git: Diff Current File"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"check",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git ta",
+				"Git: Tag"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git lo",
+				"Git: Quick Log Current File"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"tables",
+				"Table Editor: Set table syntax 'reStructuredText' for current view"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"statsu",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add Current File"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"stash",
+				"Git: Stash"
+			],
+			[
+				"git stas",
+				"Git: Stash"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gitp",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gitadc",
+				"Git: Add Current File"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"sublim",
+				"SublimeGit: Add License"
+			],
+			[
+				"git cehc",
+				"Git: Checkout"
+			],
+			[
+				"git ",
+				"Git: Checkout"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cm/Projekte/node-drive",
+		"/home/cm/Projekte/node-drive/bin",
+		"/home/cm/Projekte/node-drive/public",
+		"/home/cm/Projekte/node-drive/routes",
+		"/home/cm/Projekte/node-drive/views"
+	],
+	"file_history":
+	[
+		"/home/cm/Projekte/form-drive/server.js",
+		"/home/cm/Projekte/form-drive/gulpfile.js",
+		"/home/cm/Projekte/node-drive/server.js",
+		"/home/cm/Projekte/node-drive/package.json",
+		"/home/cm/.config/sublime-text-3/Packages/User/swi.sublime-settings",
+		"/home/cm/Projekte/static-boilerplate/src/js/app.js",
+		"/home/cm/.config/sublime-text-3/Packages/Web Inspector/Default (Linux).sublime-keymap",
+		"/home/cm/.config/sublime-text-3/Packages/Web Inspector/swi.sublime-settings",
+		"/home/cm/Projekte/static-boilerplate/src/index.html",
+		"/home/cm/Projekte/static-boilerplate/src/scss/app.scss",
+		"/home/cm/Projekte/static-boilerplate/server.js",
+		"/home/cm/Projekte/static-boilerplate/gulpfile.js",
+		"/home/cm/Projekte/static-boilerplate/package.json",
+		"/home/cm/Projekte/static-boilerplate/.gitignore",
+		"/home/cm/Projekte/static-boilerplate/src/css/app.css",
+		"/home/cm/Projekte/static-boilerplate/dist/js/vendor/modernizr/test/caniuse_files/modernizr-1.7.min.js",
+		"/home/cm/Projekte/static-boilerplate/bower.json",
+		"/home/cm/Projekte/static-boilerplate/dist/index.html",
+		"/home/cm/Projekte/static-boilerplate/.bowerrc",
+		"/home/cm/Projekte/sdk/haug.txt",
+		"/home/cm/Projekte/sdk/repo-umstellung.txt",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/out_func.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/doc/compat.log",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_immogdtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/adm_func.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_editber.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/adm_editber.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/adm_searchdbinc.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/sic/adm_conf.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/adm_artinc.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/out_artinc.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/sys_func.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/adm_adrinc.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/adm_userinc.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/login.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/doc_import.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_group.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_editart.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_userdtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_immodtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_groupdtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_berpak.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_docdtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/immo_import.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_adrdtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/su_fixart.htm",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/su_fixart.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_searchdb.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_berpakdtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_veradtl.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_publart.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_edittea.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/sic/sys_conf.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/logout.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/logout.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/immo_export.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/plz_umkr.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/test.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/index.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/umfrage09.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/parseinter.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/loginwarn.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/immo_export_oneshot.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/fix_utf8.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/fill_searchtext.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/immo_export_one.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_immo.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/set_immoscout_typ.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/sync_rubs.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/immo_berds.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/adm_immo_ges.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/correct.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/immo_export_old.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/admin/update_dateiname.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/sys_class.inc.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/parseintra.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/.gitignore",
+		"/home/cm/Projekte/lbbw/sanierungsdb/Vagrantfile",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/sys_conf.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/include/sys_db_func.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/quickhack.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/inetindex.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/www/web/stadtupdate.php",
+		"/home/cm/Projekte/lbbw/sanierungsdb/fabfile.py",
+		"/home/cm/Projekte/lbbw/sanierungsdb/manage.yml",
+		"/home/cm/Projekte/akbw/internet/composer.json",
+		"/home/cm/Projekte/lbbw/sanierungsdb/composer.json",
+		"/home/cm/Projekte/lbbw/sanierungsdb/vhost/sanierungsdb",
+		"/home/cm/Projekte/akbw/bueroprofile/composer.json",
+		"/home/cm/Projekte/sdk/internet_stage/composer.json",
+		"/home/cm/Projekte/lim-intranet/composer.json",
+		"/home/cm/Dropbox/freebsd-ansible/do_options.sh",
+		"/home/cm/Dropbox/freebsd-ansible/localhost",
+		"/home/cm/Dropbox/freebsd-ansible/roles/common/tasks/main.yml",
+		"/home/cm/Dropbox/freebsd-ansible/digitalocean.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/common/vars/main.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/user/tasks/user.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/common/templates/pf.conf.j2",
+		"/home/cm/Dropbox/freebsd-ansible/README.md",
+		"/home/cm/Dropbox/freebsd-ansible/roles/mail/tasks/main.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/mail/tasks/opensmtpd.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/mail/templates/smtpd.conf.j2",
+		"/home/cm/Dropbox/freebsd-ansible/roles/mail/vars/main.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/mail/templates/aliases.j2",
+		"/home/cm/Dropbox/freebsd-ansible/roles/mail/tasks/dovecot.yml",
+		"/home/cm/Dropbox/freebsd-ansible/site.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/mail/handlers/main.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/user/tasks/zsh.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/user/vars/main.yml",
+		"/home/cm/Dropbox/freebsd-ansible/roles/user/tasks/main.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/mail-playbook.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/roles/user/tasks/user.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/roles/common/vars/main.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/roles/common/handlers/main.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/roles/mail/vars/main.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/site.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/user-playbook.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/.gitignore",
+		"/Users/chm/Dropbox/freebsd-ansible/zsh-playbook.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/common.yml",
+		"/Users/chm/Dropbox/freebsd-ansible/dovecot-openssl.cnf.j2",
+		"/Users/chm/Dropbox/freebsd-ansible/dovecot.conf.j2",
+		"/Users/chm/Dropbox/freebsd-ansible/smtpd.conf.j2",
+		"/Users/chm/Dropbox/freebsd-ansible/dovecot-config.j2",
+		"/home/cm/Dropbox/freebsd-ansible/zshrc",
+		"/home/cm/Dropbox/freebsd-ansible/zprofile",
+		"/etc/zsh/zprofile",
+		"/home/cm/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/cm/Projekte/lbbw/sanierungsdb",
+			"/home/cm/Projekte/sdk/www/lib/vendor/fuf/builder/ffabric"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"'),\n",
+			"autoprefix",
+			");\n",
+			"    <",
+			"lib/vendor",
+			"public",
+			"css",
+			"mysql",
+			"ereg",
+			"preg",
+			"ereg",
+			"\"",
+			"ereg_replace",
+			"ereg",
+			"mysql_esc",
+			"ereg",
+			"preg",
+			"ereg",
+			"^\".SYS_ERROR_BETWEEN.",
+			"ereg",
+			"ereg_replace",
+			"ereg",
+			"No PHP code",
+			"mysql_escape_string(",
+			"intranet",
+			"comman",
+			"hostname",
+			"state",
+			"- name: install mail server\n      pkgng: name=opensmtpd state=present\n    ",
+			"documents_",
+			"LEFT",
+			"a_media_item_id",
+			"incoming[",
+			"truncat",
+			"getLeftValue",
+			"static::getLeftValue",
+			"static::getRightValue();",
+			"rgtCounter",
+			"2 * $rowCount[0]) + 2;",
+			"(2 * $rowCount[0]) + 1;",
+			"left",
+			"leftVaöl",
+			"$lftCounter =",
+			"2 * $rowCount[0];",
+			"2 * $rowCount[0]) - 1",
+			"relation",
+			"stmt30",
+			"rgtCounter",
+			"lftC",
+			"release",
+			"hasOp",
+			"parent_id",
+			"hasOp",
+			"delete",
+			"flat",
+			"fake",
+			"database",
+			"shell_exec",
+			"\n        ",
+			"';\n",
+			"IM_CONVERT_SIZE",
+			"IM_CONVERT",
+			"IM_CONVERT_EXECUTABLE",
+			"exec",
+			"fileCounter",
+			"execut",
+			"exec",
+			"categoryData",
+			"prepareDocumentImportStatement",
+			"\");\n",
+			"fetchAll",
+			"execute",
+			"prepareImportStatement",
+			"sprintf",
+			";\n",
+			"current_branch",
+			"nfs_data_dir",
+			"server",
+			"loc",
+			"rotex",
+			"Rotex",
+			"rotex",
+			"sdk",
+			"contact",
+			"admonition-title",
+			"source",
+			"Kommunikation",
+			"rotex",
+			"POST",
+			"session_is_registered",
+			"session",
+			"forbidd",
+			"env.user",
+			"dev_user",
+			"Laufzeitszenario 2\n~~~~~~~~~~~~~~~~~~",
+			"}\n",
+			"',\n",
+			"$appstorage",
+			"angular",
+			"\n        ",
+			"findRootSystemsByEnergyDemand",
+			"Systems",
+			"prohibited",
+			"forbidden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"bower_components",
+			"dist",
+			"mysql_real_escape_string(",
+			"static::getLeftValue($rowCount[0]);",
+			"static::getRightValue($rowCount[0]);",
+			"static::getRightValue();",
+			"static::getLeftValue();",
+			"2 * $rowCount[0]) + 2;",
+			"2 * $rowCount[0]) + 1",
+			"root",
+			"IM_CONVERT_GEOMETRY",
+			"IM_CONVERT_EXECUTABLE",
+			"tagData",
+			"prepareDocumentImportStatement",
+			"akbw_bueroprofile",
+			"Calculator"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"auto_name": "'use strict';",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1184,
+								1184
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/error.hbs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 130.0
+	},
+	"output.git-commit":
+	{
+		"height": 142.0
+	},
+	"output.git-pull":
+	{
+		"height": 142.0
+	},
+	"output.git-push":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "node-drive.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"out_func",
+				"www/web/include/out_func.php"
+			],
+			[
+				"adm_immogdtl.php",
+				"www/web/admin/adm_immogdtl.php"
+			],
+			[
+				"adm_func.php",
+				"www/web/include/adm_func.php"
+			],
+			[
+				"adm_editber",
+				"www/web/include/adm_editber.php"
+			],
+			[
+				"adm_searchdbinc.php",
+				"www/web/include/adm_searchdbinc.php"
+			],
+			[
+				"adm_conf.php",
+				"www/web/include/sic/adm_conf.php"
+			],
+			[
+				"adm_artinc",
+				"www/web/include/adm_artinc.php"
+			],
+			[
+				"out_artinc",
+				"www/web/include/out_artinc.php"
+			],
+			[
+				"sys_func.php",
+				"www/web/include/sys_func.php"
+			],
+			[
+				"adm_adrinc.php",
+				"www/web/include/adm_adrinc.php"
+			],
+			[
+				"adm_userinc.php",
+				"www/web/include/adm_userinc.php"
+			],
+			[
+				"login.php",
+				"www/web/login.php"
+			],
+			[
+				"doc_import",
+				"www/web/doc_import.php"
+			],
+			[
+				"adm_group.php",
+				"www/web/admin/adm_group.php"
+			],
+			[
+				"adm_group",
+				"www/web/admin/adm_groupdtl.php"
+			],
+			[
+				"adm_editart",
+				"www/web/admin/adm_editart.php"
+			],
+			[
+				"adm_userdtl",
+				"www/web/admin/adm_userdtl.php"
+			],
+			[
+				"adm_immodtl",
+				"www/web/admin/adm_immodtl.php"
+			],
+			[
+				"adm_groupdtl",
+				"www/web/admin/adm_groupdtl.php"
+			],
+			[
+				"adm_berpak",
+				"www/web/admin/adm_berpak.php"
+			],
+			[
+				"adm_docdtl",
+				"www/web/admin/adm_docdtl.php"
+			],
+			[
+				"immo_import",
+				"www/web/admin/immo_import.php"
+			],
+			[
+				"adm_adrdtl",
+				"www/web/admin/adm_adrdtl.php"
+			],
+			[
+				"su_fixart",
+				"www/web/admin/su_fixart.php"
+			],
+			[
+				"adm_searchdb",
+				"www/web/admin/adm_searchdb.php"
+			],
+			[
+				"adm_berpakdtl",
+				"www/web/admin/adm_berpakdtl.php"
+			],
+			[
+				"adm_veradtl",
+				"www/web/admin/adm_veradtl.php"
+			],
+			[
+				"adm_publart",
+				"www/web/admin/adm_publart.php"
+			],
+			[
+				"adm_edittea",
+				"www/web/admin/adm_edittea.php"
+			],
+			[
+				"sys_conf.php",
+				"www/web/include/sic/sys_conf.php"
+			],
+			[
+				"logout.php",
+				"www/web/admin/logout.php"
+			],
+			[
+				"immo_export.php",
+				"www/web/admin/immo_export.php"
+			],
+			[
+				"plz_umkr.php",
+				"www/web/plz_umkr.php"
+			],
+			[
+				"test.php",
+				"www/web/test.php"
+			],
+			[
+				"index.php",
+				"www/web/index.php"
+			],
+			[
+				"umfrage09.php",
+				"www/web/umfrage09.php"
+			],
+			[
+				"parseinter.php",
+				"www/web/parseinter.php"
+			],
+			[
+				"adm_immodtl.php",
+				"www/web/admin/adm_immodtl.php"
+			],
+			[
+				"loginwarn.php",
+				"www/web/admin/loginwarn.php"
+			],
+			[
+				"immo_export_oneshot.php",
+				"www/web/admin/immo_export_oneshot.php"
+			],
+			[
+				"fix_utf8.php",
+				"www/web/admin/fix_utf8.php"
+			],
+			[
+				"adm_editber.php",
+				"www/web/admin/adm_editber.php"
+			],
+			[
+				"adm_docdtl.php",
+				"www/web/admin/adm_docdtl.php"
+			],
+			[
+				"immo_import.php",
+				"www/web/admin/immo_import.php"
+			],
+			[
+				"fill_searchtext.php",
+				"www/web/admin/fill_searchtext.php"
+			],
+			[
+				"adm_adrdtl.php",
+				"www/web/admin/adm_adrdtl.php"
+			],
+			[
+				"immo_export_one.php",
+				"www/web/admin/immo_export_one.php"
+			],
+			[
+				"adm_immo.php",
+				"www/web/admin/adm_immo.php"
+			],
+			[
+				"set_immoscout_typ.php",
+				"www/web/admin/set_immoscout_typ.php"
+			],
+			[
+				"sync_rubs.php",
+				"www/web/admin/sync_rubs.php"
+			],
+			[
+				"immo_berds.php",
+				"www/web/admin/immo_berds.php"
+			],
+			[
+				"adm_immo_ges.php",
+				"www/web/admin/adm_immo_ges.php"
+			],
+			[
+				"correct.php",
+				"www/web/admin/correct.php"
+			],
+			[
+				"su_fixart.php",
+				"www/web/admin/su_fixart.php"
+			],
+			[
+				"immo_export",
+				"www/web/admin/immo_export_old.php"
+			],
+			[
+				"update_dateiname",
+				"www/web/admin/update_dateiname.php"
+			],
+			[
+				"immo_export_old",
+				"www/web/admin/immo_export_old.php"
+			],
+			[
+				"outfun",
+				"www/web/include/out_func.php"
+			],
+			[
+				"adm_immogdtl",
+				"www/web/admin/adm_immogdtl.php"
+			],
+			[
+				"quickhack",
+				"www/web/quickhack.php"
+			],
+			[
+				"inetindex",
+				"www/web/inetindex.php"
+			],
+			[
+				"stadtupdate",
+				"www/web/stadtupdate.php"
+			],
+			[
+				"",
+				"www/web/include/sys_func.php"
+			],
+			[
+				"vars",
+				"roles/common/vars/main.yml"
+			],
+			[
+				"pfc",
+				"roles/common/templates/pf.conf.j2"
+			],
+			[
+				"migrate",
+				"www/src/Sdk/DownloadCenterBundle/Command/MigrateMediaItemsCommand.php"
+			],
+			[
+				"mysitemaputils",
+				"www/apps/user/lib/mySitemapUtils.class.php"
+			],
+			[
+				"sdkcont",
+				"www/lib/toolkit/sdkContactFormTools.php"
+			],
+			[
+				"basesdkcon",
+				"www/lib/model/doctrine/base/BasesdkContactFormConfiguration.class.php"
+			],
+			[
+				"fact",
+				"www/apps/user/config/factories.yml"
+			],
+			[
+				"index.tw",
+				"www/src/Rotex/FrontendBundle/Resources/views/Default/index.html.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projekte/builder/builder.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1307.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
